@@ -142,6 +142,6 @@ if __name__ == "__main__":
     #     split_blacklist(file_path)
 
     search_str = '农业机械化' # '哈尔滨黄金自营有限公司'
-    file_path = './split_data/HMD_SA29_RECORD_LIST_SPLIT.txt'
+    file_path = './split_data/RECORD_LIST_SPLIT.txt'
     candidates = get_result(search_str, file_path)
     print(candidates)

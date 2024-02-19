@@ -25,7 +25,7 @@ def is_chinese(string):
 ''' 检查.flg和.dat文件是否对应，找到最新的，检查通过的.dat文件
     返回： 是否需要重新对黑名单数据分词，已分词文件路径/黑名单数据路径
 '''
-def check_data(target_file_name = "HMD_SA29_RECORD_LIST_", split_file_name = "HMD_SA29_RECORD_LIST_SPLIT_"):
+def check_data(target_file_name = "RECORD_LIST_", split_file_name = "RECORD_LIST_SPLIT_"):
     file_dirs = os.listdir(blacklist_dir)
     del_dir = []
     for file_dir in file_dirs:
@@ -75,7 +75,7 @@ def check_data(target_file_name = "HMD_SA29_RECORD_LIST_", split_file_name = "HM
 
     return False, False
 
-def split_blacklist(file_path, split_file_name = "HMD_SA29_RECORD_LIST_SPLIT_"):
+def split_blacklist(file_path, split_file_name = "RECORD_LIST_SPLIT_"):
     Logger('./log/blacklist.log', level='info').logger.info('processing of file: ' + file_path)
 
     company_ids = []

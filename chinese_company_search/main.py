@@ -35,7 +35,7 @@ def read_root():
 
 @app.post("/search/")
 def read_time(params: Params):
-    file_path = './split_data/HMD_SA29_RECORD_LIST_SPLIT.txt'
+    file_path = './split_data/RECORD_LIST_SPLIT.txt'
     params = jsonable_encoder(params)
     weight = {}
     weight['place'] = params['place']
@@ -51,7 +51,7 @@ def read_time(params: Params):
 #     update_split()
 
 #     search_str = '百得（苏州）电动工具有限公司'
-#     file_path = './split_data/HMD_SA29_RECORD_LIST_SPLIT.txt'
+#     file_path = './split_data/RECORD_LIST_SPLIT.txt'
 #     candidates = get_result(search_str, file_path)
 #     print(candidates[:10])
 
