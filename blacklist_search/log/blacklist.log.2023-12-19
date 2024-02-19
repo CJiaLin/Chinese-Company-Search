@@ -1,0 +1,62 @@
+2023-12-18 07:01:12,991 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-18 07:01:12,991 - /home/data/chenjl/company_name/blacklist_search/search.py[line:63] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-18 07:01:12,992 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-18 07:01:12,992 - /home/data/chenjl/company_name/blacklist_search/search.py[line:232] - INFO: use of historical files: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt
+2023-12-18 07:33:15,569 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-18 07:33:15,570 - /home/data/chenjl/company_name/blacklist_search/search.py[line:63] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-18 07:33:15,570 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-18 07:33:15,570 - /home/data/chenjl/company_name/blacklist_search/search.py[line:232] - INFO: use of historical files: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt
+2023-12-18 07:34:00,390 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-18 07:34:00,390 - /home/data/chenjl/company_name/blacklist_search/search.py[line:63] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-18 07:34:00,390 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-18 07:34:00,390 - /home/data/chenjl/company_name/blacklist_search/search.py[line:232] - INFO: use of historical files: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt
+2023-12-18 07:37:10,420 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-18 07:37:10,420 - /home/data/chenjl/company_name/blacklist_search/search.py[line:63] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-18 07:37:10,420 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-18 07:37:10,442 - /home/data/chenjl/company_name/blacklist_search/search.py[line:102] - INFO: processing of file: ./blacklist_data/20231105/HMD_SA29_RECORD_LIST_20231105.dat
+2023-12-18 07:37:10,578 - /home/data/chenjl/company_name/blacklist_search/search.py[line:118] - INFO: processing of company_name... ...
+2023-12-18 07:37:43,858 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-18 07:37:43,859 - /home/data/chenjl/company_name/blacklist_search/search.py[line:63] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-18 07:37:43,859 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-18 07:37:43,888 - /home/data/chenjl/company_name/blacklist_search/search.py[line:102] - INFO: processing of file: ./blacklist_data/20231105/HMD_SA29_RECORD_LIST_20231105.dat
+2023-12-18 07:38:25,705 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-18 07:38:25,705 - /home/data/chenjl/company_name/blacklist_search/search.py[line:63] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-18 07:38:25,705 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-18 07:38:25,727 - /home/data/chenjl/company_name/blacklist_search/search.py[line:102] - INFO: processing of file: ./blacklist_data/20231105/HMD_SA29_RECORD_LIST_20231105.dat
+2023-12-18 07:38:26,370 - /home/data/chenjl/company_name/blacklist_search/search.py[line:117] - INFO: processing of company_name... ...
+2023-12-18 07:39:07,934 - /home/data/chenjl/company_name/blacklist_search/search.py[line:146] - INFO: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt processed.
+2023-12-18 08:26:39,369 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-18 08:26:39,369 - /home/data/chenjl/company_name/blacklist_search/search.py[line:63] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-18 08:26:39,369 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-18 08:26:39,369 - /home/data/chenjl/company_name/blacklist_search/search.py[line:232] - INFO: use of historical files: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt
+2023-12-18 08:30:29,058 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-18 08:30:29,058 - /home/data/chenjl/company_name/blacklist_search/search.py[line:63] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-18 08:30:29,058 - /home/data/chenjl/company_name/blacklist_search/search.py[line:55] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-18 08:30:29,058 - /home/data/chenjl/company_name/blacklist_search/search.py[line:232] - INFO: use of historical files: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt
+2023-12-19 01:37:18,034 - ./update.py[line:131] - INFO: split file update start.
+2023-12-19 01:37:18,035 - ./update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-19 01:37:18,035 - ./update.py[line:47] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-19 01:37:18,035 - ./update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-19 01:37:18,035 - ./update.py[line:136] - INFO: use of historical files: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt
+2023-12-19 02:06:16,416 - ./update.py[line:131] - INFO: split file update start.
+2023-12-19 02:06:16,416 - ./update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-19 02:06:16,416 - ./update.py[line:47] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-19 02:06:16,416 - ./update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-19 02:06:16,416 - ./update.py[line:136] - INFO: use of historical files: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt
+2023-12-19 02:06:47,532 - ./update.py[line:131] - INFO: split file update start.
+2023-12-19 02:06:47,532 - ./update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-19 02:06:47,533 - ./update.py[line:47] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-19 02:06:47,533 - ./update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-19 02:06:47,533 - ./update.py[line:136] - INFO: use of historical files: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt
+2023-12-19 02:23:22,179 - /home/data/chenjl/company_name/blacklist_search/update.py[line:131] - INFO: split file update start.
+2023-12-19 02:23:22,179 - /home/data/chenjl/company_name/blacklist_search/update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-19 02:23:22,179 - /home/data/chenjl/company_name/blacklist_search/update.py[line:47] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-19 02:23:22,179 - /home/data/chenjl/company_name/blacklist_search/update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-19 02:23:22,179 - /home/data/chenjl/company_name/blacklist_search/update.py[line:136] - INFO: use of historical files: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt
+2023-12-19 06:00:00,002 - ./update.py[line:131] - INFO: split file update start.
+2023-12-19 06:00:00,002 - ./update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231213
+2023-12-19 06:00:00,002 - ./update.py[line:47] - INFO: ./blacklist_data/20231213/HMD_SA29_RECORD_LIST_20231213.flg not exist. File process failed
+2023-12-19 06:00:00,002 - ./update.py[line:39] - INFO: processing of dir: ./blacklist_data/20231105
+2023-12-19 06:00:00,025 - ./update.py[line:79] - INFO: processing of file: ./blacklist_data/20231105/HMD_SA29_RECORD_LIST_20231105.dat
+2023-12-19 06:00:00,663 - ./update.py[line:94] - INFO: processing of company_name... ...
+2023-12-19 06:00:42,430 - ./update.py[line:128] - INFO: ./split_data/20231105/HMD_SA29_RECORD_LIST_SPLIT_20231105.txt processed.
