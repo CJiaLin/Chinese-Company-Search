@@ -1,0 +1,11 @@
+apscheduler==3.10.4
+fastapi==0.109.2
+fuzzywuzzy==0.18.0
+numpy==1.23.5
+pydantic==2.6.1
+scikit_learn==1.0.2
+torch==1.13.0+cu117
+TorchCRF==1.1.0
+tqdm==4.64.1
+transformers==4.24.0
+zhconv==1.4.3

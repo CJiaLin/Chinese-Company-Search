@@ -23,10 +23,28 @@
 3. 如江苏银行、上海银行等，江苏、上海照常标注为地名，银行标注为领域
 
 
-## NER Model
+## NER Model Train
 本项目采用bert-base-chinese进行NER微调训练
 
+```bash
+pip insatll -r requirements.txt
+python train_main.py # 可直接开始训练模型
+```
+- data/目录下为标注好的训练样本
+- 模型保存至experiments\s_model下
+- config.py: 用于调整训练参数
 
+## Chinese Company Search
+`用于项目上线的API`
 
+- blacklist_data/: 候选名单原始文件
 
+- split_data/: 用于保存进行标注后的候选名单文件
 
+- main.py: API启动入口
+
+- predict.py: 调用训练好的模型对公司名进行标注
+
+- search.py: 根据检索词在候选列表中检索相关公司
+
+- update.py: 用于定时对每日更新的名单文件进行预处理
